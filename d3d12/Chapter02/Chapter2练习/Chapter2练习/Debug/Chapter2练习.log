@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+  Chapter2练习.vcxproj -> E:\C++\source\repos\d3d12\d3d12\Chapter02\Chapter2练习\Debug\Chapter2练习.exe
