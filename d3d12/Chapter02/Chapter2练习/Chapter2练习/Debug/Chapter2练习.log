@@ -1,3 +1,15 @@
 ﻿  main.cpp
-e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(36): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(42): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(97): warning C4018: '<': signed/unsigned mismatch
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(98): warning C4018: '<': signed/unsigned mismatch
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(150): warning C4018: '<': signed/unsigned mismatch
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(153): warning C4018: '<': signed/unsigned mismatch
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(154): warning C4018: '<': signed/unsigned mismatch
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(156): warning C4018: '<': signed/unsigned mismatch
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(159): warning C4018: '<': signed/unsigned mismatch
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(160): warning C4018: '<': signed/unsigned mismatch
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(190): warning C4018: '<': signed/unsigned mismatch
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(191): warning C4018: '<': signed/unsigned mismatch
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(203): warning C4018: '<': signed/unsigned mismatch
+e:\c++\source\repos\d3d12\d3d12\chapter02\chapter2练习\chapter2练习\main.cpp(204): warning C4018: '<': signed/unsigned mismatch
   Chapter2练习.vcxproj -> E:\C++\source\repos\d3d12\d3d12\Chapter02\Chapter2练习\Debug\Chapter2练习.exe
